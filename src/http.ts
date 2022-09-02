@@ -1,5 +1,4 @@
 import { ClassConstructor, deserialize, serialize } from "class-transformer";
-import fetch from "node-fetch";
 import {
   CommentReportResponse,
   CommentResponse,
