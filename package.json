@@ -1,5 +1,5 @@
 {
-  "name": "lemmy-js-client",
+  "name": "@ujournal/lemmy-js-client",
   "description": "A javascript / typescript client for Lemmy",
   "version": "0.17.0-rc.43",
   "author": "Dessalines <tyhou13@gmx.com>",
